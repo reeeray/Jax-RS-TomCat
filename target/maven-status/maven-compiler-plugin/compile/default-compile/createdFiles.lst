@@ -1,2 +1,4 @@
 ru/mail/sheingrisha/core/LinkShorter.class
 ru/mail/sheingrisha/Main.class
+MongoConnector.class
+ru/mail/sheingrisha/RestApplication.class
